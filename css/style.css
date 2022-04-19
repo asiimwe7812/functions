@@ -1,0 +1,37 @@
+@media(min-width:768px
+){
+    .news-input{
+        width: 50%;
+    }
+}
+.img{
+    padding-top: 50px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+#milestone{
+    background-color: #5bf016;
+    padding-bottom: 15px;
+    height: 50%;
+}
+section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#new{
+    background-color: #5bf016; ;
+}
+#foot{
+    background-color: #5bf016; ;
+}
+#nav{
+    background-color: #5bf016;
+}
+h1,h2,h3{
+    padding-left: 10px;
+    color:rgba(166, 255, 0, 0.724);
+    text-align: center;
+    
+    
+
+}
